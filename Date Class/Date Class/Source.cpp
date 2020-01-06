@@ -86,3 +86,9 @@ string Date::getDate() const {
 Date::~Date() {
 
 }
+
+
+int main(){
+
+return 0;
+}
