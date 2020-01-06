@@ -20,4 +20,4 @@ This is a Date class (User Defined) that takes the values in integers and then y
 	//specialized function to print date
 ## string getDate() const;
 	//destructor
-##virtual~Date();
+## virtual~Date();
